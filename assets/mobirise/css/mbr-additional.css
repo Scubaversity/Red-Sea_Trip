@@ -1372,17 +1372,17 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qS8QpRFSWc {
-  padding-top: 75px;
-  padding-bottom: 30px;
+.cid-qSd1huhNDa {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #232323;
 }
-.cid-qS8QpRFSWc .mbr-section-subtitle {
+.cid-qSd1huhNDa .mbr-section-subtitle {
   color: #ffffff;
   font-weight: 300;
 }
-.cid-qS8QpRFSWc .number-wrap {
-  color: #565656;
+.cid-qSd1huhNDa .number-wrap {
+  color: #efefef;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
@@ -1393,7 +1393,7 @@ body {
   border-radius: 2px;
   max-width: 100%;
 }
-.cid-qS8QpRFSWc .number {
+.cid-qSd1huhNDa .number {
   font-style: normal;
   font-weight: 700;
   font-size: 55px;
@@ -1403,12 +1403,12 @@ body {
   line-height: 1.3;
   color: #40aafc;
 }
-.cid-qS8QpRFSWc .period {
+.cid-qSd1huhNDa .period {
   display: block;
   padding-top: 2px;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
-.cid-qS8QpRFSWc .dot {
+.cid-qSd1huhNDa .dot {
   position: absolute;
   top: -10px;
   right: -1em;
@@ -1425,45 +1425,42 @@ body {
   word-spacing: 0;
   color: #40aafc;
 }
-.cid-qS8QpRFSWc .countdown-cont {
+.cid-qSd1huhNDa .countdown-cont {
   max-width: 700px;
   margin: 0 auto;
 }
 @media (max-width: 768px) {
-  .cid-qS8QpRFSWc .dot {
+  .cid-qSd1huhNDa .dot {
     display: none;
   }
 }
 @media (max-width: 543px) {
-  .cid-qS8QpRFSWc .number-wrap {
+  .cid-qSd1huhNDa .number-wrap {
     margin-bottom: 15px;
   }
 }
 @media (max-width: 550px) {
-  .cid-qS8QpRFSWc .col-xs-3 {
+  .cid-qSd1huhNDa .col-xs-3 {
     padding-left: 0;
     padding-right: 0;
   }
-  .cid-qS8QpRFSWc .number-wrap {
+  .cid-qSd1huhNDa .number-wrap {
     min-width: auto;
   }
 }
 @media (max-width: 440px) {
-  .cid-qS8QpRFSWc .number,
-  .cid-qS8QpRFSWc .dot {
+  .cid-qSd1huhNDa .number,
+  .cid-qSd1huhNDa .dot {
     font-size: 40px;
   }
 }
 @media (max-width: 380px) {
-  .cid-qS8QpRFSWc .period {
+  .cid-qSd1huhNDa .period {
     font-size: 0.8rem;
   }
 }
-.cid-qS8QpRFSWc B {
-  color: #55b4d4;
-}
-.cid-qS8QpRFSWc .mbr-section-subtitle B {
-  color: #f7ed4a;
+.cid-qSd1huhNDa H2 {
+  color: #40aafc;
 }
 .cid-qS8QBKKLpK {
   padding-top: 0px;
