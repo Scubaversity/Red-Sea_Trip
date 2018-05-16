@@ -1401,7 +1401,7 @@ body {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #ffffff;
+  color: #40aafc;
 }
 .cid-qS8QpRFSWc .period {
   display: block;
@@ -1423,7 +1423,7 @@ body {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #ffffff;
+  color: #40aafc;
 }
 .cid-qS8QpRFSWc .countdown-cont {
   max-width: 700px;
@@ -1460,7 +1460,10 @@ body {
   }
 }
 .cid-qS8QpRFSWc B {
-  color: #efefef;
+  color: #55b4d4;
+}
+.cid-qS8QpRFSWc .mbr-section-subtitle B {
+  color: #f7ed4a;
 }
 .cid-qS8QBKKLpK {
   padding-top: 0px;
